@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a second-year tech enthusiast exploring a wide range of technologies, including Cybersecurity and front-end web development. I actively participate in CTF challenges and enjoy discovering how different tech fields connect and complement each other.I am currently developing practical skills, contributing to meaningful projects, and building creative solutions across various areas of technology.
+I’m a Tech enthusiast exploring a wide range of technologies, including Cybersecurity and front-end web development. I actively participate in CTF challenges and enjoy discovering how different tech fields connect and complement each other.I am currently developing practical skills, contributing to meaningful projects, and building creative solutions across various areas of technology.
 <br>
 
 
