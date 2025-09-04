@@ -4,7 +4,7 @@ I’m a Tech enthusiast exploring a wide range of technologies, including Cybers
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikitha6427) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nikitha6427)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@nikitha7390)
 
 # 💻 Tech Stack:
