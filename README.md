@@ -8,6 +8,13 @@ I’m a Tech enthusiast exploring a wide range of technologies, including Cybers
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@nikitha7390)
 
 ## TryHackMe:
+
+<p align="center">
+  <a href="https://tryhackme.com/p/aktamil13" target="_blank">
+    <img  src="https://tryhackme-badges.s3.amazonaws.com/nikitha.a.2024.c.png" alt="TryHackMe Badge" width="300" />
+  </a>
+</p>
+
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5298014" style='border:none;'></iframe>
 
 # 💻 Tech Stack:
