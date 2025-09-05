@@ -9,7 +9,7 @@ I’m a Tech enthusiast exploring a wide range of technologies, including Cybers
 
 ## TryHackMe:
 
-<p align="center">
+<p>
   <a href="https://tryhackme.com/p/aktamil13" target="_blank">
     <img  src="https://tryhackme-badges.s3.amazonaws.com/nikitha.a.2024.c.png" alt="TryHackMe Badge" width="300" />
   </a>
