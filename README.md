@@ -12,6 +12,8 @@ I’m a Tech enthusiast exploring a wide range of technologies, including Cybers
 <p>
   <a href="https://tryhackme.com/p/aktamil13" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Nikitha3579.png" alt="TryHackMe Badge" width="300" />
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5298014" style='border:none;'></iframe>
+
 
   </a>
 </p>
