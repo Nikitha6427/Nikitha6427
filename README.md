@@ -11,7 +11,7 @@ I’m a Tech enthusiast exploring a wide range of technologies, including Cybers
 
 <p>
   <a href="https://tryhackme.com/p/aktamil13" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Nikitha3579.png" alt="TryHackMe Badge" width="300" />< alt="Your Image Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Nikitha3579.png" alt="TryHackMe Badge" width="300" />
 
   </a>
 </p>
