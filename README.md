@@ -9,7 +9,7 @@ I’m a Tech enthusiast exploring a wide range of technologies, including Cybers
 
 ## TryHackMe:
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Nikitha3579.png?update=2" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/Nikitha3579.png?update=3" alt="Your Image Badge" />
 
 
 
